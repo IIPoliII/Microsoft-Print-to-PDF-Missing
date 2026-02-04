@@ -28,7 +28,7 @@ From a functioning Windows 11 system (same or earlier build):
 ### Quick Download
 Download the driver package from a Windows 11 24H2 Build 26100.4061 system:
 
-**[prnms009.inf_amd64_5555b7fbfa8487e2.zip](https://github.com/IIPoliII/Microsoft-Print-to-PDF-Missing/prnms009.inf_amd64_5555b7fbfa8487e2.zip)**
+**[prnms009.inf_amd64_5555b7fbfa8487e2.zip](https://github.com/IIPoliII/Microsoft-Print-to-PDF-Missing/raw/refs/heads/main/prnms009.inf_amd64_5555b7fbfa8487e2.zip)**
 
 ### Installation Steps
 1. **Download** the ZIP file
